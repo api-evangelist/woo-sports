@@ -1,0 +1,67 @@
+# User Guide Documentation
+
+> Learn how to use your WOO and WOO Sports App!!
+
+## Guides
+- [Setup](https://docs.woosports.com/docs/getting-started.md)
+- [Setup Profile](https://docs.woosports.com/docs/profile-copy.md): Setting up your profile with correct nationality and Gender places you on the right leaderboards.
+- [Add Quiver](https://docs.woosports.com/docs/add-quiver.md): Lets get your kite wing or wind surf gear loaded to profile.
+- [Profile](https://docs.woosports.com/docs/settings.md): View your sessions, tweak your settings and read up on all things WOO!
+- [Session Log](https://docs.woosports.com/docs/profile-copy-1.md): View your sessions, tweak your settings and read up on all things WOO!
+- [Follow Riders](https://docs.woosports.com/docs/profile-page-copy.md): View your sessions, tweak your settings and read up on all things WOO!
+- [Leaderboard Filters](https://docs.woosports.com/docs/filters.md)
+- [Activity](https://docs.woosports.com/docs/community.md): Watch sessions roll in from around the world...
+- [Activity](https://docs.woosports.com/docs/activity.md): Watch sessions roll in from around the world...
+- [Leaderboards](https://docs.woosports.com/docs/leaderboards.md): Stack up any leaderboard for any metric...
+- [Explore](https://docs.woosports.com/docs/explore.md): Explore the world of kiting right on your phone...
+- [Record with WOO Sensor](https://docs.woosports.com/docs/record-with-woo-sensor.md)
+- [Record with Android Watch Only](https://docs.woosports.com/docs/record-with-woo-sensor-copy-copy-copy.md): GPS with Android watch using the Woo app to sync sessions to your phone and profile when done.
+- [Record with Apple Watch Only](https://docs.woosports.com/docs/record-with-android-watch-only-copy.md): Record GPS sessions on your Applw Watch and sync them to your phone and profile.
+- [Record GPS with Garmin Only](https://docs.woosports.com/docs/record-with-apple-watch-only-copy.md): Kite GPS app - record sessions and sync them automatically to the Woo app.
+- [Record GPS with Phone + Saftey ](https://docs.woosports.com/docs/record-gps-with-garmin-only-copy.md): For both Iphone and Android - Iphone on the top, android bottom of the page.
+- [Mounting the WOO](https://docs.woosports.com/docs/mount.md): How to add a WOO Mount to Twintips, Foils, Directionals and Windsurf boards
+- [My WOO](https://docs.woosports.com/docs/mount-1.md)
+- [Charging](https://docs.woosports.com/docs/charging.md): Learn how to charge your WOO, understand LED indicators and trouble shooting
+- [LED & Button](https://docs.woosports.com/docs/led-button.md)
+- [Pairing & Updating](https://docs.woosports.com/docs/pairing.md)
+- [Recording](https://docs.woosports.com/docs/recording.md)
+- [Download Session](https://docs.woosports.com/docs/download.md): Pairing, Downloading and posting your Big Air session,
+- [Posting Session](https://docs.woosports.com/docs/posting-session.md)
+- [Choosing a Watch for WOO](https://docs.woosports.com/docs/choosing-a-watch-for-woo.md): WOO supports all the latest models from Apple Watch, Android Watch, and Garmin for GPS recording and pairing to your WOO 4.0. Here are some of our favorites:
+- [Recommended Apple Watches](https://docs.woosports.com/docs/recommended-watches.md): *Minimum Requirements: Apple Watch Series 4+, watchOS 9+*
+- [Watch Setup](https://docs.woosports.com/docs/apple-watch-setup.md): Just Got your Apple Watch? Here's how to get set up with the app and setting for the best experinece on the water.
+- [Recording a Session](https://docs.woosports.com/docs/apple-watch-session-types.md): Here we explain the 3 different ways to measure and record metrics from your session.
+- [Controls](https://docs.woosports.com/docs/apple-watch-screens.md)
+- [Posting a Session](https://docs.woosports.com/docs/posting-a-session.md): You've finished recording your session, the Watch App has synced successfully to your phone, now it's time to post your session to your profile and the community. Here's how:
+- [Android Watch](https://docs.woosports.com/docs/supported-watches.md)
+- [Recommended Android Watches](https://docs.woosports.com/docs/recommended-watches-1.md): *Minimum Requirements: WearOS 3.0+*
+- [Watch Setup](https://docs.woosports.com/docs/recommended-settings.md): Just Got your Android Watch? Want to share GPS and Jump metrics with your friends? Heres how.
+- [Recording a Session](https://docs.woosports.com/docs/recording-a-session.md): Here we explain the 3 different ways to measure and record metrics from your session.
+- [Controls](https://docs.woosports.com/docs/metrics.md)
+- [Posting a Session](https://docs.woosports.com/docs/posting-a-session-1.md): You've finished recording your session, the Watch App has synced successfully to your phone, now it's time to post your session to your profile and the community. Here's how:
+- [Garmin Watch](https://docs.woosports.com/docs/garmin-read-me-first.md)
+- [Recommended Garmin Watches](https://docs.woosports.com/docs/garmin-supported-watches.md): *Our favorites are the fēnix, Forerunner, and Instinct lines.*
+- [Watch Setup](https://docs.woosports.com/docs/garmin-watch-setup.md): Pair your Garmin Account with WOO
+- [Recording a Session](https://docs.woosports.com/docs/garmin-kite-gps-app-buttons.md): *using Garmin Watch to record GPS*
+- [Controls](https://docs.woosports.com/docs/garmin-kite-woo-gps-buttons.md)
+- [Posting a Session](https://docs.woosports.com/docs/posting-a-session-2.md)
+- [Troubleshooting](https://docs.woosports.com/docs/garmin-faq-troubleshooting.md)
+- [Welcome to WOO Events](https://docs.woosports.com/docs/getting-started-1.md): Play Together!
+- [Setup Organization](https://docs.woosports.com/docs/setup.md)
+- [Creating an Event](https://docs.woosports.com/docs/creating-an-event.md): Step by step guide to creating your first Event. Zero to community Hero.
+- [Managing Participants](https://docs.woosports.com/docs/managing-participants.md): You created your event and you want to invite participants and see those live leaderboards!
+- [Set up](https://docs.woosports.com/docs/set-up-1.md): Step by step guide to creating your first Event. Zero to community Hero.
+- [What Devices Measure and when to use them.](https://docs.woosports.com/docs/disciplines-hardware.md): Understanding what devices are needed for each discipline
+- [What Devices Measure and when to use them.](https://docs.woosports.com/docs/copy-of-what-devices-measure-and-when-to-use-them.md): Understanding what devices are needed for each discipline
+- [Sign up for Event](https://docs.woosports.com/docs/find-an-event-leaderboard.md)
+- [Kite - Big Air](https://docs.woosports.com/docs/kite-big-air.md): BOOST to the MOON!!!
+- [Kite - Freestyle](https://docs.woosports.com/docs/kite-freestyle.md): the perfect game for those mellow winds while kiting!
+- [Kite - Freeride](https://docs.woosports.com/docs/kite-freeride.md): Explore and track!
+- [Add a Spot](https://docs.woosports.com/docs/add-a-spot.md)
+- [Edit a WOO Spot](https://docs.woosports.com/docs/edit-a-spot.md)
+- [Merge two WOO Spots](https://docs.woosports.com/docs/merge-two-woo-spots.md)
+- [Leaderboards (Web)](https://docs.woosports.com/docs/leaderboards-web.md): see how your riding stacks up with customizable WOO Leaderboards
+- [Daily Leaderboards (Email)](https://docs.woosports.com/docs/leaderboard-emails.md): eternal glory on the WOO Community if you receive one of these babies!
+- [Online Shops](https://docs.woosports.com/docs/online-shops.md): Wherever you are in the world, we'll find a way to get you a WOO!
+- [Service](https://docs.woosports.com/docs/warranty-service.md): we're always here to help!
+- [Policy](https://docs.woosports.com/docs/warranty-policy.md): the nitty gritty stuff our lawyers say we need...

@@ -1,8 +1,26 @@
 aid: woo-sports
 name: WOO Sports
-description: WOO Sports is a company surfaced as a portfolio company of techstars and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: WOO Sports makes a sensor-based performance-tracking system for kitesurfing, wingfoiling,
+  and windsurfing. The WOO 4.0 device mounts to a board and measures jump height, airtime, G-force, and
+  landing impact, syncing sessions through the WOO Sports mobile apps (iOS, Android, Apple Watch, Wear OS,
+  and Garmin) to a global community platform with leaderboards, spots, activity feeds, and events. More
+  than 100,000 riders use WOO to track sessions and compete, including on the GKA Kite World Tour. WOO
+  Sports is a Techstars-backed brand operated under Boards & More. This profile was enriched from the
+  provider's public web surface; no public developer API was found (docs.woosports.com is a consumer user
+  guide, not an API reference).
 url: https://raw.githubusercontent.com/api-evangelist/woo-sports/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.woosports.com/f/120582/5000x3333/fcdc6888f9/dtk_gear_header.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +29,19 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Sports
+- Wearables
+- IoT
+- Sensors
+- Kitesurfing
+- Wingfoil
+- GPS
+- Fitness Tracking
+- Community
+- Leaderboards
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +51,22 @@ maintainers:
 common:
 - type: Website
   url: https://woosports.com/
+- type: Documentation
+  url: https://docs.woosports.com/
+- type: Support
+  url: https://docs.woosports.com/
+- type: Blog
+  url: https://www.woosports.com/en/blog
+- type: TermsOfService
+  url: https://www.boardsandmore.com/en/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://www.boardsandmore.com/en/privacy-policy
+- type: LLMsTxt
+  url: llms/woo-sports-llms.txt
+- type: DomainSecurity
+  url: security/woo-sports-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
