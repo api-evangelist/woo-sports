@@ -9,6 +9,17 @@ description: WOO Sports makes a sensor-based performance-tracking system for kit
   provider's public web surface; no public developer API was found (docs.woosports.com is a consumer user
   guide, not an API reference).
 url: https://raw.githubusercontent.com/api-evangelist/woo-sports/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
